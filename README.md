@@ -1,5 +1,14 @@
 # hugo-theme-pure
 
+## Notes about the fork
+The support for the [original](https://github.com/xiaoheiAh/hugo-theme-pure) theme is now stopped, the project was archived and now has the read-only status.
+Here are a [list](https://github.com/yantonov/hugo-theme-pure/blob/master/fork-changes.md) of changes that were added to the fork.
+
+### Changes
+1. disqus comments were fixed
+2. latest jquery version is used now, also it's used from the CDN, not locally.
+
+
 A port of [hexo-theme-pure](https://github.com/cofess/hexo-theme-pure) for Hugo. Powerful & Clean. [Iconfont](http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html)
 
 [简体中文](README-ZH.md)

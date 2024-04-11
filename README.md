@@ -2,11 +2,10 @@
 
 ## Notes about the fork
 The support for the [original](https://github.com/xiaoheiAh/hugo-theme-pure) theme is now stopped, the project was archived and now has the read-only status.
+
 Here is a [list](https://github.com/yantonov/hugo-theme-pure/blob/master/fork-changes.md) of changes that were added to the fork.
 
-A port of [hexo-theme-pure](https://github.com/cofess/hexo-theme-pure) for Hugo. Powerful & Clean. [Iconfont](http://blog.cofess.com/hexo-theme-pure/iconfont/demo_fontclass.html)
-
-[简体中文](README-ZH.md)
+A port of [hexo-theme-pure](https://github.com/cofess/hexo-theme-pure) for Hugo.
 
 ## Contribute
 
@@ -126,8 +125,6 @@ enable toc
     toc: true
 ```
 
-
-
 ## TODO
 
 - [x] TOC
@@ -135,7 +132,7 @@ enable toc
 
 ## License
 
-Released under the [MIT](https://github.com/olOwOlo/hugo-theme-even/blob/master/LICENSE.md) License.
+Released under the [Apache-2.0](https://github.com/yantonov/hugo-theme-pure/blob/master/LICENSE.txt) License.
 
 ## Acknowledgements
 

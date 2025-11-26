@@ -9024,8 +9024,9 @@ body.okayNav-loaded {
   }
 
   .footer {
-    display: none;
+    display: block;
     position: static;
+    background-image: linear-gradient(to right, rgb(26, 36, 51) 0%, rgb(37, 52, 73) 80%, rgb(37, 52, 73) 100%);
   }
 
   .footer .copyright {

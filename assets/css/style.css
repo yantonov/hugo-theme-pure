@@ -9306,6 +9306,10 @@ body.okayNav-loaded {
   .hidden-md {
     display: none !important;
   }
+
+  .footer .copyright {
+    display: block;
+  }
 }
 
 @media print {

@@ -1,4 +1,4 @@
 <!-- Analytics -->
-{{- if and (not .Site.IsServer) .Site.GoogleAnalytics -}}
-  {{ template "_internal/google_analytics_async.html" . }}
+{{- if and (not .Site.IsServer) .Site.Config.Services.GoogleAnalytics.ID -}}
+  {{ partial "google_analytics.html" . }}
 {{- end -}}
